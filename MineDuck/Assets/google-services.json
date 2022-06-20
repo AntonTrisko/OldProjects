@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "646977381453",
+    "firebase_url": "https://mineduck-b7ab5.firebaseio.com",
+    "project_id": "mineduck-b7ab5",
+    "storage_bucket": "mineduck-b7ab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646977381453:android:93cf482c2b3ba6a7612804",
+        "android_client_info": {
+          "package_name": "com.Company.MineDuck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646977381453-us899or0pcud0rgn6oj46pvme8h8b5ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs0Hq7vYNKr-in68jQIjNWtfxapb3lc4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646977381453-us899or0pcud0rgn6oj46pvme8h8b5ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
